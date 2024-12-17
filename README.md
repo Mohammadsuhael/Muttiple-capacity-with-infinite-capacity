@@ -11,6 +11,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
 
 ## Procedure :
+![Screenshot 2024-12-17 203736](https://github.com/user-attachments/assets/d7e081c7-6713-4c64-bbed-d6685f6e2d11)
+
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
@@ -18,7 +20,6 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![Screenshot 2024-12-17 203746](https://github.com/user-attachments/assets/b826051f-4a13-4102-855a-08a9d0ec6265)
 ![Screenshot 2024-12-17 203746](https://github.com/user-attachments/assets/1ccd535d-717d-4fd0-8ac7-54aed261e76d)
 
 
